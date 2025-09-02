@@ -1,0 +1,82 @@
+2025.06.13 18:44:20.910 Info   Starting JoyToKey v7.1.1
+2025.06.13 18:44:20.910 Info   ExeFile = C:\Users\2007f\OneDrive\Pulpit\JoyToKey\JoyToKey.exe
+2025.06.13 18:44:20.910 Info   Args = C:\Users\2007f\OneDrive\Pulpit\JoyToKey\JoyToKey.exe
+2025.06.13 18:44:20.910 Info   DataDirectory = C:\Users\2007f\OneDrive\Pulpit\JoyToKey\
+2025.06.13 18:44:20.910 Info   Profile = 
+2025.06.13 18:44:20.910 Info   IniFile = C:\Users\2007f\OneDrive\Pulpit\JoyToKey\JoyToKey.ini
+2025.06.13 18:44:20.910 Info   Loading ini file: C:\Users\2007f\OneDrive\Pulpit\JoyToKey\JoyToKey.ini (C:\Dropbox\src\JoyToKey\src\AppInfo.cpp#263)
+2025.06.13 18:44:20.910 Info   LicenseKey "" is not valid
+2025.06.13 18:44:20.943 Info   Loading hid.dll (Joystick/ProcessingHID.h#58)
+2025.06.13 18:44:20.944 Info   Initialized HID (C:\Dropbox\src\JoyToKey\src\Joystick\Processing.cpp#171)
+2025.06.13 18:44:20.944 Info   Loading XInput1_4.dll (C:\Dropbox\src\JoyToKey\src\Joystick\Processing.cpp#181)
+2025.06.13 18:44:20.944 Info   Initialized XInput (C:\Dropbox\src\JoyToKey\src\Joystick\Processing.cpp#206)
+2025.06.13 18:44:20.955 Info   Initialized DirectInput (C:\Dropbox\src\JoyToKey\src\Joystick\Processing.cpp#219)
+2025.06.13 18:44:20.955 Info   Detected a HID controller[0]: VendorId=0x054C, ProductId=0x0CE6, UsagePage=1, Usage=5, Path=\\?\HID#{00001124-0000-1000-8000-00805f9b34fb}_VID&0002054c_PID&0ce6#9&1843a549&44&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+2025.06.13 18:44:20.955 Info   Vendor = Sony Interactive Entertainment
+2025.06.13 18:44:20.955 Info   Product = DualSense Wireless Controller
+2025.06.13 18:44:20.955 Info   DeviceName = DualSense Wireless Controller
+2025.06.13 18:44:20.955 Error  Unsupported ValueCapability! (Joystick/ProcessingHID.h#182)
+2025.06.13 18:44:20.955 Info   numAxis = 6 [1,1,1,1,1,1,0,0]
+2025.06.13 18:44:20.955 Info   numPOVs = 1
+2025.06.13 18:44:20.955 Info   numButtons = 14
+2025.06.13 18:44:20.980 Info   Detected a DI joystick: DualSense Wireless Controller, DualSense Wireless Controller, 0CE6054C, {D88B1540-29AD-11F0-8002-444553540000}
+2025.06.13 18:44:20.981 Info   numAxis = 6
+2025.06.13 18:44:20.981 Info   numPOVs = 1
+2025.06.13 18:44:20.981 Info   numButtons = 14
+2025.06.13 18:44:20.981 Info   EnumDeviceObject: Axis offset=0 type=502 name=Obrót Z
+2025.06.13 18:44:20.981 Info   EnumDeviceObject: Axis offset=4 type=202 name=Oœ Z
+2025.06.13 18:44:20.981 Info   EnumDeviceObject: Axis offset=8 type=102 name=Oœ Y
+2025.06.13 18:44:20.981 Info   EnumDeviceObject: Axis offset=12 type=2 name=Oœ X
+2025.06.13 18:44:20.981 Info   EnumDeviceObject: Axis offset=20 type=402 name=Obrót Y
+2025.06.13 18:44:20.981 Info   EnumDeviceObject: Axis offset=24 type=302 name=Obrót X
+2025.06.13 18:44:20.991 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2025.06.13 18:44:20.993 Info   Assign DualSense Wireless Controller to Joystick #1 ({D88B1540-29AD-11F0-8002-444553540000})
+2025.06.13 18:44:20.993 Info   1 joystick(s) are detected (C:\Dropbox\src\JoyToKey\src\Joystick\Processing.cpp#306)
+2025.06.13 18:44:20.993 Info   ConfigDir=C:\Users\2007f\OneDrive\Pulpit\JoyToKey\*.cfg (C:\Dropbox\src\JoyToKey\src\ConfigFileManager.cpp#41)
+2025.06.13 18:44:20.994 Info   Failed to find AppLink.dat (C:\Dropbox\src\JoyToKey\src\AppLink\AppLinkManager.cpp#29)
+2025.06.13 18:44:21.008 Info   TimerInit: Initializing timer with x1 speed mode (interval = 16 msec)
+2025.06.13 18:44:21.082 Info   Detected a HID controller[0]: VendorId=0x054C, ProductId=0x0CE6, UsagePage=1, Usage=5, Path=\\?\HID#{00001124-0000-1000-8000-00805f9b34fb}_VID&0002054c_PID&0ce6#9&1843a549&44&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+2025.06.13 18:44:21.082 Info   Vendor = Sony Interactive Entertainment
+2025.06.13 18:44:21.082 Info   Product = DualSense Wireless Controller
+2025.06.13 18:44:21.082 Info   DeviceName = DualSense Wireless Controller
+2025.06.13 18:44:21.082 Error  Unsupported ValueCapability! (Joystick/ProcessingHID.h#182)
+2025.06.13 18:44:21.082 Info   numAxis = 6 [1,1,1,1,1,1,0,0]
+2025.06.13 18:44:21.082 Info   numPOVs = 1
+2025.06.13 18:44:21.082 Info   numButtons = 14
+2025.06.13 18:44:21.107 Info   Detected a DI joystick: DualSense Wireless Controller, DualSense Wireless Controller, 0CE6054C, {D88B1540-29AD-11F0-8002-444553540000}
+2025.06.13 18:44:21.108 Info   numAxis = 6
+2025.06.13 18:44:21.108 Info   numPOVs = 1
+2025.06.13 18:44:21.108 Info   numButtons = 14
+2025.06.13 18:44:21.108 Info   EnumDeviceObject: Axis offset=0 type=502 name=Obrót Z
+2025.06.13 18:44:21.108 Info   EnumDeviceObject: Axis offset=4 type=202 name=Oœ Z
+2025.06.13 18:44:21.108 Info   EnumDeviceObject: Axis offset=8 type=102 name=Oœ Y
+2025.06.13 18:44:21.108 Info   EnumDeviceObject: Axis offset=12 type=2 name=Oœ X
+2025.06.13 18:44:21.108 Info   EnumDeviceObject: Axis offset=20 type=402 name=Obrót Y
+2025.06.13 18:44:21.108 Info   EnumDeviceObject: Axis offset=24 type=302 name=Obrót X
+2025.06.13 18:44:21.118 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2025.06.13 18:44:21.119 Info   Assign DualSense Wireless Controller to Joystick #1 ({D88B1540-29AD-11F0-8002-444553540000})
+2025.06.13 18:44:21.119 Info   1 joystick(s) are detected (C:\Dropbox\src\JoyToKey\src\Joystick\Processing.cpp#306)
+2025.06.13 18:44:26.336 Info   About to load config file "Minecraft xbox" (C:\Dropbox\src\JoyToKey\src\ConfigFileManager.cpp#107)
+2025.06.13 18:44:31.452 Info   About to load config file "Minecraft Ps5" (C:\Dropbox\src\JoyToKey\src\ConfigFileManager.cpp#107)
+2025.06.13 18:44:54.258 Info   Detected a HID controller[0]: VendorId=0x054C, ProductId=0x0CE6, UsagePage=1, Usage=5, Path=\\?\HID#{00001124-0000-1000-8000-00805f9b34fb}_VID&0002054c_PID&0ce6#9&1843a549&44&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+2025.06.13 18:44:54.258 Info   Vendor = Sony Interactive Entertainment
+2025.06.13 18:44:54.258 Info   Product = DualSense Wireless Controller
+2025.06.13 18:44:54.258 Info   DeviceName = DualSense Wireless Controller
+2025.06.13 18:44:54.258 Error  Unsupported ValueCapability! (Joystick/ProcessingHID.h#182)
+2025.06.13 18:44:54.258 Info   numAxis = 6 [1,1,1,1,1,1,0,0]
+2025.06.13 18:44:54.258 Info   numPOVs = 1
+2025.06.13 18:44:54.258 Info   numButtons = 14
+2025.06.13 18:44:54.282 Info   Detected a DI joystick: DualSense Wireless Controller, DualSense Wireless Controller, 0CE6054C, {D88B1540-29AD-11F0-8002-444553540000}
+2025.06.13 18:44:54.283 Info   numAxis = 6
+2025.06.13 18:44:54.283 Info   numPOVs = 1
+2025.06.13 18:44:54.283 Info   numButtons = 14
+2025.06.13 18:44:54.283 Info   EnumDeviceObject: Axis offset=0 type=502 name=Obrót Z
+2025.06.13 18:44:54.283 Info   EnumDeviceObject: Axis offset=4 type=202 name=Oœ Z
+2025.06.13 18:44:54.283 Info   EnumDeviceObject: Axis offset=8 type=102 name=Oœ Y
+2025.06.13 18:44:54.283 Info   EnumDeviceObject: Axis offset=12 type=2 name=Oœ X
+2025.06.13 18:44:54.283 Info   EnumDeviceObject: Axis offset=20 type=402 name=Obrót Y
+2025.06.13 18:44:54.283 Info   EnumDeviceObject: Axis offset=24 type=302 name=Obrót X
+2025.06.13 18:44:54.293 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2025.06.13 18:44:54.294 Info   Assign DualSense Wireless Controller to Joystick #1 ({D88B1540-29AD-11F0-8002-444553540000})
+2025.06.13 18:44:54.294 Info   1 joystick(s) are detected (C:\Dropbox\src\JoyToKey\src\Joystick\Processing.cpp#306)
+2025.06.13 18:44:55.531 Info   Application terminated (C:\Dropbox\src\JoyToKey\src\Utils\LogFile.cpp#20)
